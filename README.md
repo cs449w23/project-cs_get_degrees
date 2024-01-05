@@ -1,14 +1,6 @@
-# CS 449 Final Project
 
-This repository should contain everything you need for us to grade your final
-project, with the exception of any datasets that are larger than 50 MB. The
-project has three main pieces:
+# Project Description
+This repository highlights a project undertaken as part of the Northwestern University course COMP_SCI_449-0_SEC1 Deep Learning. The course delves into deep learning architectures, including autoencoders, convolutional deep neural networks, and recurrent neural networks. Students engage with original research papers exploring these algorithms and their applications in fields such as computer vision, automatic speech recognition, and audio event recognition.
 
-- your proposal in `proposal.ipynb`, due February 1
-- your project update in `update.ipynb`, due February 24
-- your final report in `report.ipynb`, due March 13
-
-As of January 24, we have provided templates for `proposal.ipynb` and
-`update.ipynb`, but not `report.ipynb`. By each deadline, make sure your
-finished `ipynb` file is pushed to GitHub. For each `ipynb`, please
-include a PDF printout of it as well.
+# Project Details
+For a comprehensive understanding of the project within this repository, please refer to the contents of the file titled proposal.ipynb. This file contains detailed information about the project's scope and objectives.
